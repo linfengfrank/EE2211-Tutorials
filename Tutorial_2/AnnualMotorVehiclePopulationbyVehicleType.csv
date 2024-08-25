@@ -1,0 +1,329 @@
+year,category,type,number
+2005,Cars and Station-wagons,Private cars,401638
+2006,Cars and Station-wagons,Private cars,421904
+2007,Cars and Station-wagons,Private cars,451745
+2008,Cars and Station-wagons,Private cars,476634
+2009,Cars and Station-wagons,Private cars,497116
+2010,Cars and Station-wagons,Private cars,511125
+2011,Cars and Station-wagons,Private cars,520614
+2012,Cars and Station-wagons,Private cars,535233
+2013,Cars and Station-wagons,Private cars,540063
+2014,Cars and Station-wagons,Private cars,536882
+2005,Cars and Station-wagons,Company cars,14936
+2006,Cars and Station-wagons,Company cars,15828
+2007,Cars and Station-wagons,Company cars,16954
+2008,Cars and Station-wagons,Company cars,18246
+2009,Cars and Station-wagons,Company cars,18874
+2010,Cars and Station-wagons,Company cars,19733
+2011,Cars and Station-wagons,Company cars,20372
+2012,Cars and Station-wagons,Company cars,21403
+2013,Cars and Station-wagons,Company cars,21756
+2014,Cars and Station-wagons,Company cars,21860
+2005,Cars and Station-wagons,Tuition cars,917
+2006,Cars and Station-wagons,Tuition cars,928
+2007,Cars and Station-wagons,Tuition cars,949
+2008,Cars and Station-wagons,Tuition cars,976
+2009,Cars and Station-wagons,Tuition cars,1011
+2010,Cars and Station-wagons,Tuition cars,940
+2011,Cars and Station-wagons,Tuition cars,919
+2012,Cars and Station-wagons,Tuition cars,899
+2013,Cars and Station-wagons,Tuition cars,897
+2014,Cars and Station-wagons,Tuition cars,874
+2005,Cars and Station-wagons,Rental cars,7756
+2006,Cars and Station-wagons,Rental cars,9235
+2007,Cars and Station-wagons,Rental cars,11054
+2008,Cars and Station-wagons,Rental cars,12391
+2009,Cars and Station-wagons,Rental cars,12763
+2010,Cars and Station-wagons,Rental cars,13347
+2011,Cars and Station-wagons,Rental cars,13919
+2012,Cars and Station-wagons,Rental cars,14862
+2013,Cars and Station-wagons,Private Hire (Self-Drive) cars,15782
+2013,Cars and Station-wagons,Private Hire (Chauffeur) cars,614
+2014,Cars and Station-wagons,Private Hire (Self-Drive) cars,17238
+2014,Cars and Station-wagons,Private Hire (Chauffeur) cars,1609
+2005,Cars and Station-wagons,Off peak cars,12947
+2006,Cars and Station-wagons,Off peak cars,24413
+2007,Cars and Station-wagons,Off peak cars,33983
+2008,Cars and Station-wagons,Off peak cars,42208
+2009,Cars and Station-wagons,Off peak cars,47224
+2010,Cars and Station-wagons,Off peak cars,50040
+2011,Cars and Station-wagons,Off peak cars,47899
+2012,Cars and Station-wagons,Off peak cars,45173
+2013,Cars and Station-wagons,Off peak cars,42233
+2014,Cars and Station-wagons,Off peak cars,38146
+2005,Taxis,Taxis,22383
+2006,Taxis,Taxis,23334
+2007,Taxis,Taxis,24446
+2008,Taxis,Taxis,24300
+2009,Taxis,Taxis,24702
+2010,Taxis,Taxis,26073
+2011,Taxis,Taxis,27051
+2012,Taxis,Taxis,28210
+2013,Taxis,Taxis,27695
+2014,Taxis,Taxis,28736
+2005,Motorcycles and Scooters,Motorcycles and Scooters,138588
+2006,Motorcycles and Scooters,Motorcycles and Scooters,141881
+2007,Motorcycles and Scooters,Motorcycles and Scooters,143482
+2008,Motorcycles and Scooters,Motorcycles and Scooters,145288
+2009,Motorcycles and Scooters,Motorcycles and Scooters,146337
+2010,Motorcycles and Scooters,Motorcycles and Scooters,147282
+2011,Motorcycles and Scooters,Motorcycles and Scooters,145680
+2012,Motorcycles and Scooters,Motorcycles and Scooters,143286
+2013,Motorcycles and Scooters,Motorcycles and Scooters,144307
+2014,Motorcycles and Scooters,Motorcycles and Scooters,144404
+2005,Goods and Other Vehicles,Goods-cum-passenger vehicles (GPVs),5697
+2006,Goods and Other Vehicles,Goods-cum-passenger vehicles (GPVs),5439
+2007,Goods and Other Vehicles,Goods-cum-passenger vehicles (GPVs),5074
+2008,Goods and Other Vehicles,Goods-cum-passenger vehicles (GPVs),4941
+2009,Goods and Other Vehicles,Goods-cum-passenger vehicles (GPVs),4771
+2010,Goods and Other Vehicles,Goods-cum-passenger vehicles (GPVs),4570
+2011,Goods and Other Vehicles,Goods-cum-passenger vehicles (GPVs),4402
+2012,Goods and Other Vehicles,Goods-cum-passenger vehicles (GPVs),4144
+2013,Goods and Other Vehicles,Goods-cum-passenger vehicles (GPVs),3166
+2014,Goods and Other Vehicles,Goods-cum-passenger vehicles (GPVs),2868
+2005,Goods and Other Vehicles,Light Goods Vehicles (LGVs),85891
+2006,Goods and Other Vehicles,Light Goods Vehicles (LGVs),87805
+2007,Goods and Other Vehicles,Light Goods Vehicles (LGVs),91945
+2008,Goods and Other Vehicles,Light Goods Vehicles (LGVs),94045
+2009,Goods and Other Vehicles,Light Goods Vehicles (LGVs),95185
+2010,Goods and Other Vehicles,Light Goods Vehicles (LGVs),93999
+2011,Goods and Other Vehicles,Light Goods Vehicles (LGVs),94710
+2012,Goods and Other Vehicles,Light Goods Vehicles (LGVs),93914
+2013,Goods and Other Vehicles,Light Goods Vehicles (LGVs),92317
+2014,Goods and Other Vehicles,Light Goods Vehicles (LGVs),92731
+2005,Goods and Other Vehicles,Heavy Goods Vehicles (HGVs),26756
+2006,Goods and Other Vehicles,Heavy Goods Vehicles (HGVs),28983
+2007,Goods and Other Vehicles,Heavy Goods Vehicles (HGVs),30207
+2008,Goods and Other Vehicles,Heavy Goods Vehicles (HGVs),31383
+2009,Goods and Other Vehicles,Heavy Goods Vehicles (HGVs),31884
+2010,Goods and Other Vehicles,Heavy Goods Vehicles (HGVs),31869
+2011,Goods and Other Vehicles,Heavy Goods Vehicles (HGVs),32297
+2012,Goods and Other Vehicles,Heavy Goods Vehicles (HGVs),32313
+2013,Goods and Other Vehicles,Heavy Goods Vehicles (HGVs),32549
+2014,Goods and Other Vehicles,Heavy Goods Vehicles (HGVs),32196
+2005,Goods and Other Vehicles,Very Heavy Goods Vehicles (VHGVs),9849
+2006,Goods and Other Vehicles,Very Heavy Goods Vehicles (VHGVs),10614
+2007,Goods and Other Vehicles,Very Heavy Goods Vehicles (VHGVs),11378
+2008,Goods and Other Vehicles,Very Heavy Goods Vehicles (VHGVs),12597
+2009,Goods and Other Vehicles,Very Heavy Goods Vehicles (VHGVs),12962
+2010,Goods and Other Vehicles,Very Heavy Goods Vehicles (VHGVs),13175
+2011,Goods and Other Vehicles,Very Heavy Goods Vehicles (VHGVs),13749
+2012,Goods and Other Vehicles,Very Heavy Goods Vehicles (VHGVs),14675
+2013,Goods and Other Vehicles,Very Heavy Goods Vehicles (VHGVs),16170
+2014,Goods and Other Vehicles,Very Heavy Goods Vehicles (VHGVs),16712
+2005,Buses,Omnibuses,3599
+2006,Buses,Omnibuses,3785
+2007,Buses,Omnibuses,3761
+2008,Buses,Omnibuses,3854
+2009,Buses,Omnibuses,4045
+2010,Buses,Omnibuses,3981
+2011,Buses,Omnibuses,4112
+2012,Buses,Omnibuses,4212
+2013,Buses,Omnibuses,4552
+2014,Buses,Omnibuses,4756
+2005,Buses,School buses (CB),1873
+2006,Buses,School buses (CB),1881
+2007,Buses,School buses (CB),1851
+2008,Buses,School buses (CB),1852
+2009,Buses,School buses (CB),1849
+2010,Buses,School buses (CB),1845
+2011,Buses,School buses (CB),1844
+2012,Buses,School buses (CB),1839
+2013,Buses,School buses (CB),1847
+2014,Buses,School buses (CB),1845
+2005,Buses,Private buses,2557
+2006,Buses,Private buses,2577
+2007,Buses,Private buses,2628
+2008,Buses,Private buses,2739
+2009,Buses,Private buses,2795
+2010,Buses,Private buses,2842
+2011,Buses,Private buses,3076
+2012,Buses,Private buses,2968
+2013,Buses,Private buses,2871
+2014,Buses,Private buses,2802
+2005,Buses,Private hire buses,3090
+2006,Buses,Private hire buses,3189
+2007,Buses,Private hire buses,3356
+2008,Buses,Private hire buses,3548
+2009,Buses,Private hire buses,3586
+2010,Buses,Private hire buses,3507
+2011,Buses,Private hire buses,3332
+2012,Buses,Private hire buses,3063
+2013,Buses,Private hire buses,2654
+2014,Buses,Private hire buses,2152
+2005,Buses,Excursion buses,2101
+2006,Buses,Excursion buses,2399
+2007,Buses,Excursion buses,2596
+2008,Buses,Excursion buses,2983
+2009,Buses,Excursion buses,3384
+2010,Buses,Excursion buses,3761
+2011,Buses,Excursion buses,4288
+2012,Buses,Excursion buses,4686
+2013,Buses,Excursion buses,5141
+2014,Buses,Excursion buses,5554
+2005,Tax Exempted Vehicles,Cars and Station-wagons,2389
+2006,Tax Exempted Vehicles,Cars and Station-wagons,2409
+2007,Tax Exempted Vehicles,Cars and Station-wagons,2356
+2008,Tax Exempted Vehicles,Cars and Station-wagons,2391
+2009,Tax Exempted Vehicles,Cars and Station-wagons,2383
+2010,Tax Exempted Vehicles,Cars and Station-wagons,2561
+2011,Tax Exempted Vehicles,Cars and Station-wagons,2557
+2012,Tax Exempted Vehicles,Cars and Station-wagons,2441
+2013,Tax Exempted Vehicles,Cars and Station-wagons,2343
+2014,Tax Exempted Vehicles,Cars and Station-wagons,2414
+2005,Tax Exempted Vehicles,Motorcycles and scooters,846
+2006,Tax Exempted Vehicles,Motorcycles and scooters,855
+2007,Tax Exempted Vehicles,Motorcycles and scooters,858
+2008,Tax Exempted Vehicles,Motorcycles and scooters,832
+2009,Tax Exempted Vehicles,Motorcycles and scooters,878
+2010,Tax Exempted Vehicles,Motorcycles and scooters,878
+2011,Tax Exempted Vehicles,Motorcycles and scooters,879
+2012,Tax Exempted Vehicles,Motorcycles and scooters,824
+2013,Tax Exempted Vehicles,Motorcycles and scooters,627
+2014,Tax Exempted Vehicles,Motorcycles and scooters,622
+2005,Tax Exempted Vehicles,Buses,274
+2006,Tax Exempted Vehicles,Buses,289
+2007,Tax Exempted Vehicles,Buses,338
+2008,Tax Exempted Vehicles,Buses,351
+2009,Tax Exempted Vehicles,Buses,364
+2010,Tax Exempted Vehicles,Buses,373
+2011,Tax Exempted Vehicles,Buses,394
+2012,Tax Exempted Vehicles,Buses,394
+2013,Tax Exempted Vehicles,Buses,444
+2014,Tax Exempted Vehicles,Buses,445
+2005,Tax Exempted Vehicles,Goods and Other Vehicles,10905
+2006,Tax Exempted Vehicles,Goods and Other Vehicles,11625
+2007,Tax Exempted Vehicles,Goods and Other Vehicles,12375
+2008,Tax Exempted Vehicles,Goods and Other Vehicles,13123
+2009,Tax Exempted Vehicles,Goods and Other Vehicles,13405
+2010,Tax Exempted Vehicles,Goods and Other Vehicles,13928
+2011,Tax Exempted Vehicles,Goods and Other Vehicles,14610
+2012,Tax Exempted Vehicles,Goods and Other Vehicles,15371
+2013,Tax Exempted Vehicles,Goods and Other Vehicles,16142
+2014,Tax Exempted Vehicles,Goods and Other Vehicles,17191
+2015,Cars and Station-wagons,Private cars,519645
+2015,Cars and Station-wagons,Company cars,21987
+2015,Cars and Station-wagons,Tuition cars,841
+2015,Cars and Station-wagons,Private Hire (Self-Drive) cars,18884
+2015,Cars and Station-wagons,Private Hire (Chauffeur) cars,10485
+2015,Cars and Station-wagons,Off peak cars,30469
+2015,Taxis,Taxis,28259
+2015,Motorcycles and Scooters,Motorcycles and Scooters,143279
+2015,Goods and Other Vehicles,Goods-cum-passenger vehicles (GPVs),2997
+2015,Goods and Other Vehicles,Light Goods Vehicles (LGVs),94016
+2015,Goods and Other Vehicles,Heavy Goods Vehicles (HGVs),30155
+2015,Goods and Other Vehicles,Very Heavy Goods Vehicles (VHGVs),16804
+2015,Buses,Omnibuses,5120
+2015,Buses,School buses (CB),1847
+2015,Buses,Private buses,2717
+2015,Buses,Private hire buses,1909
+2015,Buses,Excursion buses,6147
+2015,Tax Exempted Vehicles,Cars and Station-wagons,2411
+2015,Tax Exempted Vehicles,Motorcycles and scooters,621
+2015,Tax Exempted Vehicles,Buses,443
+2015,Tax Exempted Vehicles,Goods and Other Vehicles,18210
+2016,Cars and Station-wagons,Private cars,504160
+2016,Cars and Station-wagons,Company cars,22382
+2016,Cars and Station-wagons,Tuition cars,817
+2016,Cars and Station-wagons,Private Hire (Self-Drive) cars,19374
+2016,Cars and Station-wagons,Private Hire (Chauffeur) cars,31962
+2016,Cars and Station-wagons,Off peak cars,22562
+2016,Taxis,Taxis,27534
+2016,Motorcycles and Scooters,Motorcycles and Scooters,142439
+2016,Goods and Other Vehicles,Goods-cum-passenger vehicles (GPVs),2992
+2016,Goods and Other Vehicles,Light Goods Vehicles (LGVs),95750
+2016,Goods and Other Vehicles,Heavy Goods Vehicles (HGVs),28817
+2016,Goods and Other Vehicles,Very Heavy Goods Vehicles (VHGVs),16407
+2016,Buses,Omnibuses,5470
+2016,Buses,School buses (CB),1840
+2016,Buses,Private buses,2659
+2016,Buses,Private hire buses,1598
+2016,Buses,Excursion buses,6771
+2016,Tax Exempted Vehicles,Cars and Station-wagons,2506
+2016,Tax Exempted Vehicles,Motorcycles and scooters,613
+2016,Tax Exempted Vehicles,Buses,466
+2016,Tax Exempted Vehicles,Goods and Other Vehicles,19311
+2017,Cars and Station-wagons,Private cars,502187
+2017,Cars and Station-wagons,Company cars,24196
+2017,Cars and Station-wagons,Tuition cars,843
+2017,Cars and Station-wagons,Private Hire (Self-Drive) cars,21180
+2017,Cars and Station-wagons,Private Hire (Chauffeur) cars,46903
+2017,Cars and Station-wagons,Off peak cars,16947
+2017,Taxis,Taxis,23140
+2017,Motorcycles and Scooters,Motorcycles and Scooters,141304
+2017,Goods and Other Vehicles,Goods-cum-passenger vehicles (GPVs),2972
+2017,Goods and Other Vehicles,Light Goods Vehicles (LGVs),94724
+2017,Goods and Other Vehicles,Heavy Goods Vehicles (HGVs),28641
+2017,Goods and Other Vehicles,Very Heavy Goods Vehicles (VHGVs),16520
+2017,Buses,Omnibuses,5665
+2017,Buses,School buses (CB),1844
+2017,Buses,Private buses,2533
+2017,Buses,Private hire buses,1255
+2017,Buses,Excursion buses,7517
+2017,Tax Exempted Vehicles,Cars and Station-wagons,2533
+2017,Tax Exempted Vehicles,Motorcycles and scooters,612
+2017,Tax Exempted Vehicles,Buses,471
+2017,Tax Exempted Vehicles,Goods and Other Vehicles,19855
+2018,Cars and Station-wagons,Private cars,509302
+2018,Cars and Station-wagons,Company cars,24817
+2018,Cars and Station-wagons,Tuition cars,825
+2018,Cars and Station-wagons,Private Hire (Self-Drive) cars,21138
+2018,Cars and Station-wagons,Private Hire (Chauffeur) cars,45342
+2018,Cars and Station-wagons,Off peak cars,14028
+2018,Taxis,Taxis,20581
+2018,Motorcycles and Scooters,Motorcycles and Scooters,136842
+2018,Goods and Other Vehicles,Goods-cum-passenger vehicles (GPVs),2951
+2018,Goods and Other Vehicles,Light Goods Vehicles (LGVs),94017
+2018,Goods and Other Vehicles,Heavy Goods Vehicles (HGVs),28063
+2018,Goods and Other Vehicles,Very Heavy Goods Vehicles (VHGVs),16377
+2018,Buses,Omnibuses,5776
+2018,Buses,School buses (CB),1847
+2018,Buses,Private buses,2463
+2018,Buses,Private hire buses,1084
+2018,Buses,Excursion buses,7777
+2018,Tax Exempted Vehicles,Cars and Station-wagons,2603
+2018,Tax Exempted Vehicles,Motorcycles and scooters,638
+2018,Tax Exempted Vehicles,Buses,432
+2018,Tax Exempted Vehicles,Goods and Other Vehicles,20103
+2019,Cars and Station-wagons,Private cars,515036
+2019,Cars and Station-wagons,Company cars,24610
+2019,Cars and Station-wagons,Tuition cars,832
+2019,Cars and Station-wagons,Private Hire (Self-Drive) cars,21566
+2019,Cars and Station-wagons,Private Hire (Chauffeur) cars,55575
+2019,Cars and Station-wagons,Off peak cars,12977
+2019,Taxis,Taxis,18542
+2019,Motorcycles and Scooters,Motorcycles and Scooters,140398
+2019,Goods and Other Vehicles,Goods-cum-passenger vehicles (GPVs),2900
+2019,Goods and Other Vehicles,Light Goods Vehicles (LGVs),93858
+2019,Goods and Other Vehicles,Heavy Goods Vehicles (HGVs),27716
+2019,Goods and Other Vehicles,Very Heavy Goods Vehicles (VHGVs),16490
+2019,Buses,Omnibuses,5863
+2019,Buses,School buses (CB),1841
+2019,Buses,Private buses,2529
+2019,Buses,Private hire buses,958
+2019,Buses,Excursion buses,8135
+2019,Tax Exempted Vehicles,Cars and Station-wagons,2085
+2019,Tax Exempted Vehicles,Motorcycles and scooters,493
+2019,Tax Exempted Vehicles,Buses,335
+2019,Tax Exempted Vehicles,Goods and Other Vehicles,20362
+2020,Cars and Station-wagons,Private cars,519132
+2020,Cars and Station-wagons,Company cars,30966
+2020,Cars and Station-wagons,Tuition cars,769
+2020,Cars and Station-wagons,Private Hire (Self-Drive) cars,21351
+2020,Cars and Station-wagons,Private Hire (Chauffeur) cars,49796
+2020,Cars and Station-wagons,Off peak cars,12028
+2020,Taxis,Taxis,15678
+2020,Motorcycles and Scooters,Motorcycles and Scooters,140782
+2020,Goods and Other Vehicles,Goods-cum-passenger vehicles (GPVs),2798
+2020,Goods and Other Vehicles,Light Goods Vehicles (LGVs),94211
+2020,Goods and Other Vehicles,Heavy Goods Vehicles (HGVs),27307
+2020,Goods and Other Vehicles,Very Heavy Goods Vehicles (VHGVs),16467
+2020,Buses,Omnibuses,5906
+2020,Buses,School buses (CB),1834
+2020,Buses,Private buses,2567
+2020,Buses,Private hire buses,826
+2020,Buses,Excursion buses,7779
+2020,Tax Exempted Vehicles,Cars and Station-wagons,2138
+2020,Tax Exempted Vehicles,Motorcycles and scooters,621
+2020,Tax Exempted Vehicles,Buses,339
+2020,Tax Exempted Vehicles,Goods and Other Vehicles,20695
