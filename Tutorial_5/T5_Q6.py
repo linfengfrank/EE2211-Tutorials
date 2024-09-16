@@ -4,7 +4,8 @@ import numpy as np
 from numpy.linalg import inv
 from sklearn.metrics import mean_squared_error
 ## get data from web
-wine = pd.read_csv("https://archive.ics.uci.edu/ml/machine-learning-databases/winequality/winequality-red.csv",sep=';')
+# wine = pd.read_csv("https://archive.ics.uci.edu/ml/machine-learning-databases/winequality/winequality-red.csv",sep=';')
+wine = pd.read_csv("winequality-red.csv",sep=';'); # get data from the downloaded local file
 wine.info()
 y = wine.quality
 x = wine.drop('quality',axis = 1)
@@ -16,10 +17,17 @@ X = np.hstack((x0,x))
 ## In case you really want a general random split to have a better training/test distributions:
 ## from sklearn.model_selection import train_test_split
 ## train_X,test_X,train_y,test_y = train_test_split(X,y,test_size=99/1599, random_state = 0)
-train_X = X[0:1500]
-train_y = y[0:1500]
-test_X = X[1500:1599]
-test_y = y[1500:1599]
+
+# train_X = X[0:1500]
+# train_y = y[0:1500]
+# test_X = X[1500:1599]
+# test_y = y[1500:1599]
+
+
+# randomly split the data into training and testing sets
+from sklearn.model_selection import train_test_split
+train_X,test_X,train_y,test_y = train_test_split(X,y,test_size=99/1599, random_state = 4)
+
 ## linear regression
 w = inv(train_X.T @ train_X) @ train_X.T @ train_y
 print(w)

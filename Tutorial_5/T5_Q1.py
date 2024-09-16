@@ -15,6 +15,17 @@ w_b = inv(X_b.T@X_b)@X_b.T@y
 
 #(b) Perform a linear regression without inclusion of any bias/offset term
 w = inv(X.T@X)@X.T@y
+print("w=", w)
+
+
+from numpy.linalg import pinv
+w_p = pinv(X)@y
+print("w_p=", w_p)
+
+
+from numpy.linalg import lstsq
+w_ls, residuals, rank, s = lstsq(X, y, rcond=-1)
+print("w_sl", w_ls)
 
 
 # show the effect of adding a bias/offset term

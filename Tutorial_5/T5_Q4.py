@@ -42,12 +42,20 @@ print(y_pred_30)
 
 
 # (c) Purge duplicates (keep only one instance where X = 26 and Y = 20)
-X_cleaned = np.array([36, 35, 39, 30, 31, 38, 36, 38, 26])
-X_cleaned = X_cleaned.reshape(-1,1)
-y_cleaned = np.array([31, 34, 35, 30, 30, 38, 34, 33, 20])
-y_cleaned = y_cleaned.reshape(-1,1)
+# X_cleaned = np.array([36, 35, 39, 30, 31, 38, 36, 38, 26])
+# X_cleaned = X_cleaned.reshape(-1,1)
+# y_cleaned = np.array([31, 34, 35, 30, 30, 38, 34, 33, 20])
+# y_cleaned = y_cleaned.reshape(-1,1)
 
-#print(y_cleaned)
+# find the unique data
+duplicated = np.hstack((X,y))
+cleaned = np.unique(duplicated , axis=0)
+print("cleaned data = ")
+print(cleaned)
+X_cleaned = cleaned[:,0]
+X_cleaned = X_cleaned.reshape(-1,1)
+y_cleaned = cleaned[:,1]
+y_cleaned = y_cleaned.reshape(-1,1)
 
 b_cleaned   = np.ones( (len(X_cleaned), 1) )
 X_b_cleaned = np.hstack((b_cleaned, X_cleaned)) # add bias to the X matrix
