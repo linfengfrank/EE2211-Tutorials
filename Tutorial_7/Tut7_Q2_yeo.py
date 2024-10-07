@@ -150,6 +150,19 @@ def Tut7_Q2():
     plt.legend(loc='upper left', fontsize=15)
     plt.savefig('fig_tut7_Q2b_MSE.png')
 
+    # Plot MSE in semilog
+    plt.figure(4, figsize=[9,4.5])
+    plt.rcParams.update({'font.size': 16})
+    plt.semilogy(np.linspace(1,max_order,max_order), train_MSE, label='training MSE')
+    plt.semilogy(np.linspace(1,max_order,max_order), test_MSE, label='test MSE')
+    plt.xlabel('order') 
+    plt.ylabel('MSE')
+    plt.title('With Regularization and Semilog Plot')
+    plt.legend(loc='upper left', fontsize=15)
+    plt.savefig('fig_tut7_Q2b_MSE.png')
+
+    plt.show()
+
 
 def CreateRegressors(x, max_order):
     
